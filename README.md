@@ -4,8 +4,7 @@
   # <h2> Freelance Graphic Designer/ world dominator of design
   
 
-  <a href="""C:\Users\mabym.LAPTOP-0BJRVPOS\downloads
-             <img height="150" src="1675942399072.jpg"
+  ![](images/downloads/1675942399072.jpg)
   
   <a href="https://www.instagram.com/Druid1984/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
