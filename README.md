@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on ...Python projects
-- 🌱 I’m currently learning ... Python, Javascript, SQL and HTML
+- 🌱 I’m currently learning ... Python, Javascript, SQL and HTML wouldnt hurt to learn PHP as well 
 - 👯 I’m looking to collaborate on ... HTML, Python, Javascript, C++
 - 🤔 I’m looking for help with ... Python, Javascript
 - 💬 Ask me about ... anything that crossess your mind
