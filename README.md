@@ -10,7 +10,7 @@
   <a href="https://www.instagram.com/iain_donn1984/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
-  <a href="https://www.linkedin.com/feed/Iain Donn">
+  <a href="https://www.linkedin.com/Iain Donn">
     <img height="50" src="https://user-images.githubusercontent.com/124631432/217811618-049d9feb-f59c-4e45-bf4c-2f8fccb0a5d0.png"/>
   </a>
   <a href="https://www.facebook.com/Druid1984/">
