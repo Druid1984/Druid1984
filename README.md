@@ -4,7 +4,7 @@
   # <h2> Freelance Graphic Designer/ world dominator of design
   
 
-  
+ 
   
   
   <a href="https://www.instagram.com/Druid1984/">
@@ -53,7 +53,7 @@ technical_background:
     "Intern - Adobe After Effects
   ]
   
-currently_learning: ["Github, Python, SQL,HTML + CSS"]
+currently_learning: [" codespace/Edinburghcollege ,Github, Python, SQL,HTML + CSS"]
 2024 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
 hobbies: ["Gaming", "Visual designs", ", "Art", "book writing"]
 
